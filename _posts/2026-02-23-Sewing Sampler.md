@@ -12,3 +12,4 @@ One tip I would give my past self is to drawn the guidelines better. It was diff
 You do not have to draw out every stitich, but it is useful to get a good guide.
 
 ![Alt text for screen readers](http://car6-williams.github.io/assets/img/Front.JPG)
+![Alt text for screen readers](http://car6-williams.github.io/assets/img/Back.JPG)
