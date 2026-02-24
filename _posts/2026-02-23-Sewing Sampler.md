@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Sewing Sampler
-cover-img: /assets/img/Front.jpg
-thumbnail-img: /assets/img/Front.jpeg
-share-img: /assets/img/Front.jpg
+cover-img: /assets/img/Back.JPG
+thumbnail-img: /assets/img/Front.JPG
+share-img: /assets/img/Front.JPG
 tags: [sewing]
 author: Christopher Rodriguez
 ---
