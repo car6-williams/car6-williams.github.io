@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Plushy
+title: Plushy Code
 tags: [assignment]
 author: Christopher Rodriguez
 ---
