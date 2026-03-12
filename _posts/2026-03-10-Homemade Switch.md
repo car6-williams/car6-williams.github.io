@@ -17,10 +17,10 @@ One tip I would give my future self would be that you do not always need a runni
 Switch Prototype
 
 ![Alt text for screen readers](http://car6-williams.github.io/assets/img/SwitchFrontA.jpg)
-Switch Front View
+Switch Front
 
 ![Alt text for screen readers](http://car6-williams.github.io/assets/img/SwitchFrontB.jpg)
-Switch In Motion 
+Switch Motion 
 
 ![Alt text for screen readers](http://car6-williams.github.io/assets/img/SwitchOn.jpg)
 Switch On
