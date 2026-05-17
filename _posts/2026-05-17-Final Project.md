@@ -20,7 +20,7 @@ Three tips to my past self is to give myself enough time for the project. This i
 ![Alt text for screen readers](http://car6-williams.github.io/assets/img/planning.JPG)
 This is a photo of me planning my paper prototype.
 
-![Alt text for screen readers](http://car6-williams.github.io/assets/img/final_pro2.JPG)
+![Alt text for screen readers](http://car6-williams.github.io/assets/img/final_pro2.jpg)
 This is my revised paper prototype.
 
 ![Alt text for screen readers](http://car6-williams.github.io/assets/img/position.JPG)
